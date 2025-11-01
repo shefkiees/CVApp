@@ -17,7 +17,7 @@ npm install
 
 # Start the app
 npx expo start
-```   <-- kjo pjesë ishte munguar
+``` 
 
 ## Screenshots
 
